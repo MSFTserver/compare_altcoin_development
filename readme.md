@@ -6,6 +6,8 @@ One disclaimer, these stats should just be a broad guide to which coin is develo
 
 Any problems, feel free to submit a PR.
 
+### to update the list navigate to yourdomain.com/fetch and use the list generated there in the data/example_data.js file
+
 The [live site is here](https://wassname.github.io/compare_altcoin_development/src/) but there's a snapshot below.
 
 # Snapshot 2017-11-29
